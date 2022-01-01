@@ -1,2 +1,2 @@
 # fil
-https://github.com/filterfrumason/python-Filtrei.py
+https://github.com/filterfrumason/python-Filtrei
